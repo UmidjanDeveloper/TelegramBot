@@ -1,0 +1,5 @@
+C:\Users\umidj\OneDrive\Desktop\TelegramBot\obj\Debug\net7.0\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\umidj\OneDrive\Desktop\TelegramBot\obj\Debug\net7.0\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umidj\OneDrive\Desktop\TelegramBot\obj\Debug\net7.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\umidj\OneDrive\Desktop\TelegramBot\obj\Debug\net7.0\TelegramBot.AssemblyInfo.cs
+C:\Users\umidj\OneDrive\Desktop\TelegramBot\obj\Debug\net7.0\TelegramBot.csproj.CoreCompileInputs.cache
